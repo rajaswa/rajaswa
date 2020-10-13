@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## I'm a senior year undergraduate student at BITS Goa.
 - 🌱 I’m currently exploring [Computational Psycholinguistics](http://tallinzen.net/media/teaching/cpl_fall_2019.html)
 - 👯 I’m looking to collaborate with other researchers and linguists
-- 🥅 2020 Goals: Building computational tools for core-linguistics!
+- 🥅 2020 Goals: Building computational tools for researchers working at the intersection of linguistics theory and NLP!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Most of the Indic languages will have [grammatical genders](https://en.wikipedia.org/wiki/List_of_languages_by_type_of_grammatical_genders)! 
 
