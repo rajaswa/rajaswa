@@ -1,56 +1,20 @@
-<!--
-**rajaswa/rajaswa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Rajaswa Patil
 
-Here are some ideas to get you started:
+**AI Engineer** 👨‍💻 **Freelance Consultant**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub! I'm passionate about leveraging Generative AI to build scalable and impactful AI-driven products. Feel free to explore or reach out!
 
-### Hi there, I'm Rajaswa - aka [rajaswa][website] 👋
+---
 
-## I'm a senior year undergraduate student at BITS Goa.
-- 🌱 I’m currently exploring [Computational Psycholinguistics](http://tallinzen.net/media/teaching/cpl_fall_2019.html)
-- 👯 I’m looking to collaborate with other researchers and linguists
-- 🥅 2020 Goals: Building computational tools for researchers working at the intersection of linguistics theory and NLP!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Most of the Indic languages will have [grammatical genders](https://en.wikipedia.org/wiki/List_of_languages_by_type_of_grammatical_genders)! 
+## 📨 Let's Connect!
 
-### Connect with me:
+Feel free to reach out if you want to collaborate or chat about AI, Product Development, or anything in between!
 
-[<img align="left" alt="sites.google.com/view/rajaswa/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="RajaswaPatil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="rajaswa-patil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="TF" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
-<img align="left" alt="sklearn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" /> \
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajaswa%20Patil-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/rajaswa-patil)
+[![X](https://img.shields.io/badge/X-Follow%20%40RajaswaPatil-black?style=flat-square&logo=x)](https://x.com/RajaswaPatil)
+[![Email](https://img.shields.io/badge/Email-patilrajaswa%40gmail.com-red?style=flat-square&logo=gmail)](mailto:patilrajaswa@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Rajaswa%20Patil-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=79uJMXsAAAAJ)
 
 ---
 
 <img align="left" alt="Rajaswa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajaswa&show_icons=true&hide_border=true" />
-
-[website]: https://sites.google.com/view/rajaswa/
-[twitter]: https://twitter.com/RajaswaPatil
-[instagram]: https://instagram.com/rajaswa.patil
-[linkedin]: https://www.linkedin.com/in/rajaswa-patil/
