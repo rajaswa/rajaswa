@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Rajaswa Patil
 
-**AI Engineer** 👨‍💻 **Freelance Consultant**
+**Applied AI Consultant** 👨‍💻
 
-Welcome to my GitHub! I'm passionate about leveraging Generative AI to build scalable and impactful AI-driven products. Feel free to explore or reach out!
+Welcome to my GitHub! I am an independent AI Engineer and Consultant, passionate about leveraging Generative AI to build scalable and impactful products and solutions. I help teams and companies develop and deploy AI products through consulting and engineering.
 
 ---
 
