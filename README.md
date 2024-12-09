@@ -16,5 +16,3 @@ Feel free to reach out if you want to collaborate or chat about AI, Product Deve
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Rajaswa%20Patil-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=79uJMXsAAAAJ)
 
 ---
-
-<img align="left" alt="Rajaswa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajaswa&show_icons=true&hide_border=true" />
